@@ -1,0 +1,117 @@
+*{
+    padding: 0px; 
+    margin: 0px;
+
+}
+
+body {
+    background-color: rgb(40, 31, 31);
+}
+
+h1, ul , li  {
+    display: inline;
+    
+}
+.header {
+    background-color: black; 
+    color: lime;
+    padding: 20px; 
+    margin: 5px;
+    border-radius: 5px;
+}
+
+li {
+    padding-right: 10px;
+    cursor: pointer;
+    
+}
+
+ul{
+    margin-left: 71%;
+}
+
+li:hover {
+    color: rgb(196, 24, 139);
+}
+
+.searchbar input{
+    width: 60%;
+    padding: 10px;
+    margin: 20px;
+    background-color: rgb(237, 221, 44);
+    border-radius: 30px;
+    
+}
+
+.searchbar{
+    text-align: center;
+}
+.searchbar a {
+    text-decoration: none;
+    font-size: 30px;
+}
+img {
+    width: 300px; 
+    height: 250px;
+}
+
+.box {
+    border-style: solid;
+    border-width: 3px ; 
+    border-color: rgb(236, 9, 9); 
+    border-radius: 6px; 
+    display: inline-block;
+    margin: 0px; 
+    padding: 0px;
+    margin-right: 50px;
+    color: bisque;
+}
+
+.items {
+    text-align: center;
+}
+
+.box:hover{
+    border-color: lime;
+    border-width: 5px;
+}
+
+.itemsi {
+    margin-top: 10px;
+    text-align: center;
+}
+
+.aboutus  {
+
+    margin-top: 100px;
+    text-align: center;
+    color: beige;
+}
+
+hr {
+    margin-left: 50px;
+    margin-right: 50px;
+    height: 2px;
+    background-color: lime;
+    margin-top: 5px ;
+    border-radius: 2px;
+}
+h4 {
+    margin-top: 30px;
+    
+}
+
+.just {
+    margin-top: 30px;
+}
+
+.contactus {
+    margin-top: 200px;
+    color: gold; 
+    text-align: center;
+    padding-bottom: 50px;
+    background-color: rgb(147, 111, 85);
+}
+.detais {
+     
+}
